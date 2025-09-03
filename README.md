@@ -22,8 +22,8 @@ A simple and lightweight **HTML/CSS/JavaScript** project that allows users to re
 🔗 [Click here to view the website](https://arjun5354.github.io/BACKGROUND-REMOVER/)
 
 ## 📷 Screenshot
-![Background Remover Screenshot](imageOri.png)
-![Background Removed Screenshot](imageBgRem.png)
+![Background Remover Screenshot](./assets/imageOri.png)
+![Background Removed Screenshot](./assets/imageBgRem.png)
 
 ## 📄 License
 This project is **open-source** and free to use.
