@@ -65,7 +65,7 @@ body{
 .image{
     width: 200px;
     height: 200px;
-    background-image: url("transparent.png");
+    background-image: url("./assets/transparent.png");
     display: flex;
     position: relative;
     border-radius: 10px;
