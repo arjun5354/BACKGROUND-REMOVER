@@ -26,7 +26,7 @@ A simple and lightweight **HTML/CSS/JavaScript** project that allows users to re
 ![Background Removed Screenshot](./assets/imageBgRem.png)
 
 ## 📄 License
-This project is **open-source** and free to use.
+This project is free to use.
 
 ---
 
